@@ -1,7 +1,6 @@
-# first-code-challenge
 # (Project Name)
 
-#### Date, 2024/09/27
+#### Date, 2024/09/z7
 
 #### By *Anthony Mwaura*
 

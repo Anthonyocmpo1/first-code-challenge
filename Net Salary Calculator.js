@@ -69,8 +69,8 @@ function calculateNetSalary(basicSalary, benefits) {
     return netSalary;
 }
 
-const netSalary = calculateNetSalary(50000, 5000);
-console.log("Net Salary: " + netSalary);
+
+
 
 // KRA
 function calculateNetSalary(basicSalary, benefits) {
